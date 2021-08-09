@@ -9,6 +9,7 @@ bin-release/
 
 #matlab
 *.mat
+*.DS_Store
 
 #audio
 *.wav
