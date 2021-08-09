@@ -7,6 +7,12 @@ bin-release/
 # Other files and folders
 .settings/
 
+#matlab
+*.mat
+
+#audio
+*.wav
+
 # Executables
 *.swf
 *.air

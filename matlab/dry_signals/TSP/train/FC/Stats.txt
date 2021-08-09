@@ -1,0 +1,300 @@
+File: FC13_01
+  Number of samples : 96091
+  Std Dev = 792.83      Mean = -0.12495
+  Max     = 5574        Min  = -4109
+  Active Level: 826.4 (Activity Factor: 92.0%)
+File: FC13_02
+  Number of samples : 111502
+  Std Dev = 1095.3      Mean = 0.079613
+  Max     = 7517        Min  = -5056
+  Active Level: 1126.4 (Activity Factor: 94.6%)
+File: FC13_03
+  Number of samples : 107875
+  Std Dev = 1156.1      Mean = 0.34715
+  Max     = 8573        Min  = -7818
+  Active Level: 1189.0 (Activity Factor: 94.5%)
+File: FC13_04
+  Number of samples : 114220
+  Std Dev = 1077.9      Mean = 0.46446
+  Max     = 9338        Min  = -6222
+  Active Level: 1141.6 (Activity Factor: 89.1%)
+File: FC13_05
+  Number of samples : 103342
+  Std Dev = 970.56      Mean = -0.35383
+  Max     = 6106        Min  = -6237
+  Active Level: 1002.8 (Activity Factor: 93.7%)
+File: FC13_06
+  Number of samples : 117847
+  Std Dev = 1233.9      Mean = -0.24427
+  Max     = 10075       Min  = -10057
+  Active Level: 1275.3 (Activity Factor: 93.6%)
+File: FC13_07
+  Number of samples : 104250
+  Std Dev = 1013        Mean = -0.17729
+  Max     = 9222        Min  = -7612
+  Active Level: 1041.2 (Activity Factor: 94.7%)
+File: FC13_08
+  Number of samples : 107875
+  Std Dev = 1133.8      Mean = -0.086165
+  Max     = 9877        Min  = -7159
+  Active Level: 1165.5 (Activity Factor: 94.6%)
+File: FC13_09
+  Number of samples : 109689
+  Std Dev = 1036        Mean = -0.087803
+  Max     = 9130        Min  = -6286
+  Active Level: 1079.4 (Activity Factor: 92.1%)
+File: FC13_10
+  Number of samples : 100623
+  Std Dev = 1274.3      Mean = -0.030172
+  Max     = 8277        Min  = -9303
+  Active Level: 1324.2 (Activity Factor: 92.6%)
+File: FC14_01
+  Number of samples : 121473
+  Std Dev = 1097.6      Mean = 0.16453
+  Max     = 7952        Min  = -4627
+  Active Level: 1118.2 (Activity Factor: 96.4%)
+File: FC14_02
+  Number of samples : 113315
+  Std Dev = 916.76      Mean = 0.20037
+  Max     = 5048        Min  = -5555
+  Active Level: 965.9 (Activity Factor: 90.1%)
+File: FC14_03
+  Number of samples : 96091
+  Std Dev = 1317.8      Mean = 0.22938
+  Max     = 13502       Min  = -5940
+  Active Level: 1427.4 (Activity Factor: 85.2%)
+File: FC14_04
+  Number of samples : 87932
+  Std Dev = 1249.1      Mean = 0.3432
+  Max     = 11811       Min  = -9397
+  Active Level: 1303.3 (Activity Factor: 91.9%)
+File: FC14_05
+  Number of samples : 116940
+  Std Dev = 1041.2      Mean = 0.31229
+  Max     = 8696        Min  = -5683
+  Active Level: 1065.1 (Activity Factor: 95.6%)
+File: FC14_06
+  Number of samples : 95184
+  Std Dev = 1400.2      Mean = 0.39918
+  Max     = 11799       Min  = -10932
+  Active Level: 1454.4 (Activity Factor: 92.7%)
+File: FC14_07
+  Number of samples : 120566
+  Std Dev = 1089.6      Mean = 0.40341
+  Max     = 10843       Min  = -6897
+  Active Level: 1133.9 (Activity Factor: 92.3%)
+File: FC14_08
+  Number of samples : 115127
+  Std Dev = 1054.4      Mean = 0.4822
+  Max     = 7110        Min  = -6620
+  Active Level: 1088.5 (Activity Factor: 93.8%)
+File: FC14_09
+  Number of samples : 106063
+  Std Dev = 1068.3      Mean = -0.44615
+  Max     = 11110       Min  = -6227
+  Active Level: 1132.9 (Activity Factor: 88.9%)
+File: FC14_10
+  Number of samples : 141416
+  Std Dev = 1037        Mean = -0.35997
+  Max     = 8723        Min  = -5859
+  Active Level: 1094.4 (Activity Factor: 89.8%)
+File: FC15_01
+  Number of samples : 105156
+  Std Dev = 1013.6      Mean = -0.29888
+  Max     = 7554        Min  = -5551
+  Active Level: 1076.2 (Activity Factor: 88.7%)
+File: FC15_02
+  Number of samples : 102437
+  Std Dev = 889.31      Mean = -0.24929
+  Max     = 5826        Min  = -5195
+  Active Level: 944.3 (Activity Factor: 88.7%)
+File: FC15_03
+  Number of samples : 105156
+  Std Dev = 1067.5      Mean = -0.18253
+  Max     = 7301        Min  = -6770
+  Active Level: 1141.4 (Activity Factor: 87.5%)
+File: FC15_04
+  Number of samples : 99717
+  Std Dev = 998.04      Mean = -0.23652
+  Max     = 8568        Min  = -5548
+  Active Level: 1067.5 (Activity Factor: 87.4%)
+File: FC15_05
+  Number of samples : 118753
+  Std Dev = 740.84      Mean = -0.27404
+  Max     = 6122        Min  = -4475
+  Active Level: 767.5 (Activity Factor: 93.2%)
+File: FC15_06
+  Number of samples : 98810
+  Std Dev = 762.02      Mean = -0.31916
+  Max     = 5677        Min  = -4809
+  Active Level: 790.7 (Activity Factor: 92.9%)
+File: FC15_07
+  Number of samples : 105156
+  Std Dev = 1016.8      Mean = -0.14834
+  Max     = 7480        Min  = -6672
+  Active Level: 1044.9 (Activity Factor: 94.7%)
+File: FC15_08
+  Number of samples : 127818
+  Std Dev = 1370.5      Mean = -0.16732
+  Max     = 11453       Min  = -11480
+  Active Level: 1436.6 (Activity Factor: 91.0%)
+File: FC15_09
+  Number of samples : 118754
+  Std Dev = 1117.1      Mean = -0.12275
+  Max     = 8530        Min  = -5795
+  Active Level: 1156.0 (Activity Factor: 93.4%)
+File: FC15_10
+  Number of samples : 102436
+  Std Dev = 1171.2      Mean = -0.031669
+  Max     = 9047        Min  = -5476
+  Active Level: 1203.6 (Activity Factor: 94.7%)
+File: FC16_01
+  Number of samples : 117847
+  Std Dev = 807.37      Mean = -0.36454
+  Max     = 6918        Min  = -5347
+  Active Level: 863.4 (Activity Factor: 87.4%)
+File: FC16_02
+  Number of samples : 115127
+  Std Dev = 837.08      Mean = 0.15617
+  Max     = 9694        Min  = -5710
+  Active Level: 858.4 (Activity Factor: 95.1%)
+File: FC16_03
+  Number of samples : 101530
+  Std Dev = 834.64      Mean = 0.20833
+  Max     = 6906        Min  = -5826
+  Active Level: 873.6 (Activity Factor: 91.3%)
+File: FC16_04
+  Number of samples : 123286
+  Std Dev = 1040.6      Mean = 0.257
+  Max     = 10055       Min  = -12458
+  Active Level: 1087.7 (Activity Factor: 91.5%)
+File: FC16_05
+  Number of samples : 128725
+  Std Dev = 865.59      Mean = 0.40498
+  Max     = 8629        Min  = -5384
+  Active Level: 895.4 (Activity Factor: 93.4%)
+File: FC16_06
+  Number of samples : 89745
+  Std Dev = 860.82      Mean = -0.41539
+  Max     = 7116        Min  = -6240
+  Active Level: 911.9 (Activity Factor: 89.1%)
+File: FC16_07
+  Number of samples : 117847
+  Std Dev = 845.98      Mean = -0.21027
+  Max     = 9063        Min  = -4749
+  Active Level: 873.3 (Activity Factor: 93.8%)
+File: FC16_08
+  Number of samples : 126005
+  Std Dev = 770.87      Mean = -0.1213
+  Max     = 9671        Min  = -4464
+  Active Level: 798.2 (Activity Factor: 93.3%)
+File: FC16_09
+  Number of samples : 116941
+  Std Dev = 684.51      Mean = -0.045134
+  Max     = 5052        Min  = -4095
+  Active Level: 702.7 (Activity Factor: 94.9%)
+File: FC16_10
+  Number of samples : 133258
+  Std Dev = 934.85      Mean = 0.21262
+  Max     = 6997        Min  = -5151
+  Active Level: 956.8 (Activity Factor: 95.5%)
+File: FC17_01
+  Number of samples : 115128
+  Std Dev = 1074.6      Mean = 0.36234
+  Max     = 13789       Min  = -7447
+  Active Level: 1093.2 (Activity Factor: 96.6%)
+File: FC17_02
+  Number of samples : 111502
+  Std Dev = 1022.2      Mean = 0.37231
+  Max     = 8527        Min  = -5311
+  Active Level: 1057.7 (Activity Factor: 93.4%)
+File: FC17_03
+  Number of samples : 104249
+  Std Dev = 938.17      Mean = 0.31945
+  Max     = 10354       Min  = -10273
+  Active Level: 1009.4 (Activity Factor: 86.4%)
+File: FC17_04
+  Number of samples : 116034
+  Std Dev = 869.89      Mean = 0.42541
+  Max     = 8135        Min  = -7611
+  Active Level: 892.3 (Activity Factor: 95.0%)
+File: FC17_05
+  Number of samples : 126006
+  Std Dev = 848.94      Mean = 0.46418
+  Max     = 6390        Min  = -4965
+  Active Level: 896.6 (Activity Factor: 89.6%)
+File: FC17_06
+  Number of samples : 127819
+  Std Dev = 775.77      Mean = -0.38358
+  Max     = 7079        Min  = -5704
+  Active Level: 820.8 (Activity Factor: 89.3%)
+File: FC17_07
+  Number of samples : 128725
+  Std Dev = 1071.5      Mean = -0.34223
+  Max     = 8015        Min  = -8253
+  Active Level: 1097.5 (Activity Factor: 95.3%)
+File: FC17_08
+  Number of samples : 130539
+  Std Dev = 706.48      Mean = -0.41167
+  Max     = 4122        Min  = -3325
+  Active Level: 785.5 (Activity Factor: 80.9%)
+File: FC17_09
+  Number of samples : 125100
+  Std Dev = 1248.7      Mean = -0.38327
+  Max     = 11602       Min  = -7941
+  Active Level: 1338.8 (Activity Factor: 87.0%)
+File: FC17_10
+  Number of samples : 133258
+  Std Dev = 1054.7      Mean = -0.17985
+  Max     = 10007       Min  = -7159
+  Active Level: 1138.8 (Activity Factor: 85.8%)
+File: FC18_01
+  Number of samples : 96091
+  Std Dev = 686.71      Mean = -0.21632
+  Max     = 3842        Min  = -4121
+  Active Level: 711.5 (Activity Factor: 93.2%)
+File: FC18_02
+  Number of samples : 106062
+  Std Dev = 993.56      Mean = 0.021091
+  Max     = 9169        Min  = -5766
+  Active Level: 1039.9 (Activity Factor: 91.3%)
+File: FC18_03
+  Number of samples : 108782
+  Std Dev = 944.14      Mean = -0.038959
+  Max     = 7785        Min  = -4616
+  Active Level: 991.6 (Activity Factor: 90.7%)
+File: FC18_04
+  Number of samples : 122379
+  Std Dev = 907.07      Mean = -0.053138
+  Max     = 9389        Min  = -4773
+  Active Level: 925.7 (Activity Factor: 96.0%)
+File: FC18_05
+  Number of samples : 116034
+  Std Dev = 782.09      Mean = -0.12352
+  Max     = 5764        Min  = -4509
+  Active Level: 819.0 (Activity Factor: 91.2%)
+File: FC18_06
+  Number of samples : 90652
+  Std Dev = 1095.6      Mean = -0.046199
+  Max     = 8786        Min  = -6886
+  Active Level: 1152.3 (Activity Factor: 90.4%)
+File: FC18_07
+  Number of samples : 104249
+  Std Dev = 1066.5      Mean = -0.064845
+  Max     = 12332       Min  = -12282
+  Active Level: 1106.2 (Activity Factor: 93.0%)
+File: FC18_08
+  Number of samples : 116034
+  Std Dev = 1024.3      Mean = 0.12494
+  Max     = 7319        Min  = -6127
+  Active Level: 1052.0 (Activity Factor: 94.8%)
+File: FC18_09
+  Number of samples : 120566
+  Std Dev = 968.28      Mean = 0.066785
+  Max     = 7247        Min  = -5156
+  Active Level: 994.0 (Activity Factor: 94.9%)
+File: FC18_10
+  Number of samples : 116034
+  Std Dev = 747.07      Mean = 0.1064
+  Max     = 7910        Min  = -5254
+  Active Level: 792.0 (Activity Factor: 89.0%)

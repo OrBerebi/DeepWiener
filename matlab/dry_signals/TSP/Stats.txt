@@ -1,0 +1,10 @@
+Average Statistics - Database: 48k
+  Number of files: 1444
+           [Min Avg Max]
+  Number of samples: [64363 113872 229860]
+  Std Dev: [138 1329.9 3755]
+  Mean   : [-0.49995 0.001432 0.49978]
+  Min    : [-25850 -8460 -789]
+  Max    : [1149 12035 30722]
+  Active Level   : [141.6 1373.5 3825.6]
+  Activity Factor: [76.6% 93.7% 98.1%]
