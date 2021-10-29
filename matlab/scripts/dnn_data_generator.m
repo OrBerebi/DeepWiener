@@ -4,31 +4,22 @@
 clear
 close all
 
-current_folder      = "/Users/orberebi/Google Drive/DNN_FINAL_PROJECT/submition/";
-%dry_speakers_train_path    = current_folder + "/dry_signals/TSP/train/";
+%Folders path
+%=============================
+current_folder              = "/Users/orberebi/Documents/GitHub/DeepWiener/";
 dry_speakers_train_path     = "/Users/orberebi/Documents/Data/wsj_wav/si_dt_05";
-dry_speakers_test_path      = current_folder + "/matlab/dry_signals/TSP/train/";
-dry_noise_path              = current_folder + "/matlab/dry_signals/noises/";
-%dry_noise_path             = "/Users/orberebi/Documents/Data/wham_noise/tt";
-save_path                   = current_folder + "/data/21_07_21_small/";
+dry_speakers_test_path      = "/Users/orberebi/Documents/Data/TSP/train/";
+dry_noise_path              = "/Users/orberebi/Documents/Data/noises/";
+save_path                   = current_folder + "/data/09_08_21_test/";
 mkdir(save_path)
-
 addpath(genpath(current_folder));
 
+%data_type
+%=============================
 train = true;
 validation = false;
 test = false;
 calc_binaural_ex = false;
-
-if (train == true)
-    save_name           = save_path + "data_train.mat";
-end
-if (validation == true)
-    save_name           = save_path + "data_val.mat";
-end
-if (test == true)
-    save_name           = save_path + "data_test.mat";
-end
 
 
 %data_size
@@ -44,6 +35,19 @@ elseif (validation == true)
 elseif (test == true)
     noise_data_size = 10;
 end
+
+
+if (train == true)
+    save_name           = save_path + "data_train.mat";
+end
+if (validation == true)
+    save_name           = save_path + "data_val.mat";
+end
+if (test == true)
+    save_name           = save_path + "data_test.mat";
+end
+
+
 
 %Simulation Parameters
 %----------------------
@@ -102,8 +106,8 @@ dry_noises = load_noise(dry_noise_path,fs_sim);
 %------------------------------------------------
 [a_grid,th_grid,ph_grid] = uniform_sampling_extended(N);
 %[a_grid,th_grid,ph_grid] = equiangle_sampling(N);
-Y=sh2(N,th_grid,ph_grid);
-Yp=diag(a_grid)*Y';
+Y  = sh2(N,th_grid,ph_grid); 
+Yp = diag(a_grid)*Y';
 
 mean_des = 0;
 mean_noise = 0;
