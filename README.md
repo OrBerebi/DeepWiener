@@ -1,7 +1,7 @@
 ## DeepWiener
-Signal enhancement of spatial recording using a Wiener space-time-frequency mask, estimated by a UNet based deep neural network.
+Signal enhancement of spatial audio recording using a Wiener space-time-frequency mask, estimated by a UNet based deep neural network.
 
-#How to run it
+# How to run it
 1. Open ./matlab/scripts/get_mesurments.m using Matlab 2020b (I think it will work on earlier versions as well)
   
     1.1. Here you can generate the dataset for the project, set the current_folder path.
