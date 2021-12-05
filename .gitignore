@@ -1,9 +1,11 @@
 # Other files and folders
 .settings/
+matlab/
 
 #matlab
 *.mat
 *.DS_Store
+
 
 #audio
 *.wav
